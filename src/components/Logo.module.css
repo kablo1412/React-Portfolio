@@ -1,0 +1,10 @@
+.logoH2 {
+  height: 90%;
+  color: var(--svijetla);
+  width: 100%;
+  font-size: 1.2rem;
+}
+.logoSpan {
+  color: var(--bijela);
+  font-size: 1.5rem;
+}

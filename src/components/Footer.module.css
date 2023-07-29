@@ -1,0 +1,13 @@
+footer {
+  background-color: var(--tamna);
+  height: 4vh;
+  width: 100vw;
+  color: var(--svijetla);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.copyright {
+  font-size: 0.6rem;
+}

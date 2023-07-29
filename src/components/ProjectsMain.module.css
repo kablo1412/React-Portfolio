@@ -1,0 +1,95 @@
+.projectsMain {
+  background-color: var(--tamna);
+  height: auto;
+}
+.projects {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+.project {
+  height: 55vh;
+  width: 70%;
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+.redniBroj {
+  font-size: 2.5rem;
+  color: var(--svijetla);
+  text-align: center;
+  margin-top: 25px;
+  font-family: "Oswald", sans-serif;
+}
+.contentProjekta {
+  width: 90%;
+  height: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.imeProjekta {
+  color: var(--svijetla);
+  width: 32%;
+  font-size: 3rem;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+.opisProjekta {
+  width: 60%;
+  height: 50%;
+  line-height: 28px;
+  color: white;
+  /*padding: 20px;*/
+  padding-top: 10px;
+}
+.aTag {
+  text-align: center;
+  padding-top: 6px;
+  width: 180px;
+  margin-bottom: 25px;
+}
+
+/*
+img {
+  height: 150px;
+}
+*/
+@media screen and (max-width: 450px) {
+  .project {
+    height: 100%;
+    width: 90%;
+  }
+
+  .contentProjekta {
+    width: 90%;
+    height: auto;
+    padding: 30px;
+    justify-content: space-around;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+  .redniBroj {
+    font-size: 2.5rem;
+  }
+  .imeProjekta {
+    font-size: 1.8rem;
+    width: auto;
+  }
+  .opisProjekta {
+    width: 100%;
+    line-height: 20px;
+    /*padding: 20px;*/
+    padding-top: 0px;
+  }
+  .aTag {
+    padding-top: 6px;
+    width: 180px;
+    margin-bottom: 25px;
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "redniBroj": 1,
+      "imeProjekta": "FPL 22/23 quiz",
+      "opisProjekta": "Fantasy Premier League (FPL) is an online fantasy football game based on the English Premier League (EPL). The game allows football fans to create their own virtual teams of real-life Premier League players and compete against other players' teams. Quiz is based for the latest season 2022/2023.",
+      "linkProjekta": "https://genuine-cat-cefa4a.netlify.app/"
+    },
+    {
+      "redniBroj": 2,
+      "imeProjekta": "ChatApp",
+      "opisProjekta": "ChatApp made with Scaledrone. Scaledrone is a cloud-based real-time messaging platform that provides easy-to-use APIs and tools for building real-time features in web and mobile applications.",
+      "linkProjekta": "https://melodious-paletas-51e9d8.netlify.app/"
+    },
+    {
+      "redniBroj": 3,
+      "imeProjekta": "Fonts",
+      "opisProjekta": "Simple site made with HTML & CSS which represents few of the most used and well made fonts.",
+      "linkProjekta": "https://bright-tarsier-eab436.netlify.app/"
+    },
+    {
+      "redniBroj": 4,
+      "imeProjekta": "Caffe-bar WebPage",
+      "opisProjekta": "Web page made for Caffe-bar.",
+      "linkProjekta": "https://celadon-hummingbird-b66859.netlify.app/"
+    },
+    {
+      "redniBroj": 5,
+      "imeProjekta": "Vowel Counter",
+      "opisProjekta": "Input field that counts all of the vowels you have typed in your word or sentence.",
+      "linkProjekta": "https://bucolic-pika-37b59c.netlify.app/"
+    },
+    {
+      "redniBroj": 6,
+      "imeProjekta": "European Countries",
+      "opisProjekta": "List of all of the European countries in alphabetical order.",
+      "linkProjekta": "https://admirable-sunshine-9fa007.netlify.app/"
+    },
+    {
+      "redniBroj": 7,
+      "imeProjekta": "Currency Exchanger",
+      "opisProjekta": "List of few of the currencies.",
+      "linkProjekta": "https://64bbf93f3be6e37a3f4cc0b0--transcendent-zabaione-d2fd93.netlify.app/"
+    }
+  ]
+}
