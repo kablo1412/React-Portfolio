@@ -56,6 +56,24 @@ const projectsArray = [
       "https://64bbf93f3be6e37a3f4cc0b0--transcendent-zabaione-d2fd93.netlify.app/",
     slika: "data/FireShot Capture 012 - CurrencyEx.png",
   },
+  {
+    redniBroj: 8,
+    imeProjekta: "NASA Picture Of The Day",
+    opisProjekta:
+      "Daily updating content. Made with NASA official API in React native.",
+    linkProjekta:
+      "https://64cd03c57fce35159ef0a590--melodious-yeot-2630e6.netlify.app/",
+    slika: "data/nasa-pod-kp.png",
+  },
+  {
+    redniBroj: 9,
+    imeProjekta: "Mars Rover Photo",
+    opisProjekta:
+      "Daily updating content. Made with NASA official API in React native.",
+    linkProjekta:
+      "https://64ce4358be3d0c33500eb0d9--ephemeral-kataifi-149085.netlify.app/",
+    slika: "data/FireShot Capture 017 - Mars Rover Photo by KPortfolio.png",
+  },
 ];
 
 function ProjectsMain() {
